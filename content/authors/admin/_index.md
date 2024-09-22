@@ -37,26 +37,10 @@ profiles:
     url: https://www.linkedin.com/in/eshwar-venugopal
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=IY4warsAAAAJ&hl=en
-  
-
-interests:
-  - Research interests - Empirical Finance and Economics of Climate 
-  - Secondary Interest - Machine Learning and Text Mining Applications​
-  
-
-education:
-  - area: Ph.D. in Business Administration (Finance)
-    institution: University of Houston 
-  - area: Master of Applied Econometrics 
-    institution: Monash University
-  - area: Master of Business in Banking and Finance
-    institution: Monash Univeristy
-  - area: Master of Business in Banking and Finance
-    institution: Monash Univeristy
 ---
 
-## 
+## About me
 
-Hi, welcome to my webpage! 
+Welcome to my website! 
 
-​I​ am Eshwar Venugopal, an Assistant Professor of Finance at the College of Business in the University of Central Florida.
+I am a financial economist who conducts empirical research in corporate and entrepreneurial finance areas. Specifically, I study how businesses are affected by incentive mechanisms, networks, and environmental issues by leveraging natural language processing and machine learning techniques.
