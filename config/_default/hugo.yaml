@@ -55,4 +55,5 @@ sitemap:
   _merge: deep
 
 params:
-  custom_css: assets/scss/custom.scss 
+  custom_css:
+    - "assets/scss/custom.scss"   
