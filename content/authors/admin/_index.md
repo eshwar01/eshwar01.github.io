@@ -59,7 +59,7 @@ education:
     institution: Monash Univeristy
 ---
 
-## About Me
+## 
 
 Hi, welcome to my webpage! 
 
