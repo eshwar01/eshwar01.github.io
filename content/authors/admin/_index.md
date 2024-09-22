@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Buvaneshwaran [Eshwar] Venugopal
+title: Buvaneshwaran (Eshwar) Venugopal
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -31,20 +31,17 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:eshwar@ucf.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/EshwarVenu
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/eshwar01
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/eshwar-venugopal
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=IY4warsAAAAJ&hl=en
+  
 
 interests:
   - Artificial Intelligence
