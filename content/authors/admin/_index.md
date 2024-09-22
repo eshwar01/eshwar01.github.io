@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eshwar Venugopal
+title: Buvaneshwaran [Eshwar] Venugopal
 
 # Name pronunciation (optional)
 name_pronunciation: 
