@@ -1,6 +1,14 @@
-.avatar-circle {
+#profile .avatar-circle {
   border-radius: 0 !important;
-  width: 250px !important;
-  height: 250px !important;
+  width: 270px !important;
+  height: 270px !important;
   object-fit: cover !important;
+}
+
+#profile .network-icon {
+  margin-top: 0.5rem;
+}
+
+#profile .portrait-title {
+  margin-top: 1rem;
 }

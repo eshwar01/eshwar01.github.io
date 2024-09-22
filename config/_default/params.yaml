@@ -60,4 +60,5 @@ features:
     enable: false
 
 # Custom CSS
-custom_css: assets/scss/custom.scss
+custom_css:
+  - scss/custom.scss
