@@ -61,4 +61,4 @@ features:
 
 # Custom CSS
 custom_css:
-  - scss/custom.scss
+  - css/custom.css
