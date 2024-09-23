@@ -54,6 +54,6 @@ security:
 sitemap:
   _merge: deep
 
-params:
-  custom_css:
-    - "assets/scss/custom.scss"   
+# Custom CSS
+custom_css:
+  - css/custom.css
