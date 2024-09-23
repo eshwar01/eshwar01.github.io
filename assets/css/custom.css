@@ -1,7 +1,7 @@
-#profile .avatar {
+#profile .avatar-circle {
   border-radius: 0 !important;
-  width: 270px !important;
-  height: 270px !important;
+  width: 500px !important;
+  height: 500px !important;
   object-fit: cover !important;
 }
 
