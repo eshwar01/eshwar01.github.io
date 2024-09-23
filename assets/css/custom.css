@@ -14,7 +14,7 @@
 }
 
 /* Additional selectors to ensure override */
-.avatar-circle {
+.avatar-square {
   border-radius: 0 !important;
 }
 
