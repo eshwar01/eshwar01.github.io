@@ -2,7 +2,6 @@
   border-radius: 0 !important;
   width: 225px !important;
   height: 225px !important;
-  object-fit: cover !important;
 }
 
 #profile .network-icon {
@@ -21,5 +20,4 @@
 .avatar {
   width: 225px !important;
   height: 225px !important;
-  object-fit: cover !important;
 }
