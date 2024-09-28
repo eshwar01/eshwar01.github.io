@@ -1,0 +1,26 @@
+{{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="{{ relURL (printf "css/%s" .) }}">
+{{ end }}
+
+<style>
+  #profile .avatar-circle,
+  .avatar-circle,
+  .avatar {
+    border-radius: 0 !important;
+    width: 250px !important;
+    height: 250px !important;
+    object-fit: cover !important;
+    margin-top: -20px !important;
+    margin-left: -20px !important;
+  }
+  #profile .network-icon {
+    margin-top: 0.5rem;
+  }
+  #profile .portrait-title {
+    margin-top: 1rem;
+    clear: both;
+  }
+  #profile .col-12.col-lg-8 {
+    padding-top: 30px;
+  }
+</style>
