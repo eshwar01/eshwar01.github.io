@@ -2,11 +2,11 @@
 .avatar-circle,
 .avatar {
   border-radius: 0 !important;
-  width: 250px !important;
-  height: 250px !important;
+  width: 500px !important;
+  height: 300px !important;
   object-fit: cover !important;
-  margin-top: -20px !important;
-  margin-left: -20px !important;
+  margin-top: -50px !important;
+  margin-left: -50px !important;
 }
 
 #profile .network-icon {
