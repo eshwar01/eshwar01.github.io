@@ -39,7 +39,11 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-conference: ICM 2023, IJM 2024
+sections:
+  - block: markdown
+    content:
+      title: Conferences
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 
 # Custom links (uncomment lines below)
 # links:
