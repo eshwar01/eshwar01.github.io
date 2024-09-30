@@ -20,23 +20,20 @@ sections:
         url: uploads/venugopal_cv_2024_aug-public.pdf
     design:
       columns: '1'
-  - block: markdown
+  - block: collection
+  id: papers
     content:
       title: 'Publications'
-    design:
-      columns: '1'
-  - block: collection
-    content:
-      title: ''
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
+    count: 0    
     design:
-      view: citation    
+      view: citation
+      columns: 1    
   - block: collection
-    id: papers
     content:
       title: Working Papers
       filters:
