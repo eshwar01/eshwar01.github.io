@@ -29,9 +29,10 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    count: 0    
+      count: 0    
     design:
-      view: citation  
+      view: citation
+      columns: 2  
   - block: collection
     content:
       title: Working Papers
