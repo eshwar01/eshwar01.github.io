@@ -21,7 +21,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-  id: papers
+    id: papers
     content:
       title: 'Publications'
       text: ""
