@@ -31,8 +31,7 @@ sections:
         exclude_featured: false
     count: 0    
     design:
-      view: citation
-      columns: 1    
+      view: citation  
   - block: collection
     content:
       title: Working Papers
