@@ -32,7 +32,7 @@ sections:
       count: 0    
     design:
       view: citation
-      columns: 2  
+      columns: 1  
   - block: collection
     content:
       title: Working Papers
@@ -41,8 +41,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: citation
+      columns: 1
 
   - block: collection
     id: talks
