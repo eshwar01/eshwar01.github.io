@@ -39,6 +39,8 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
+conference: ICM 2023, IJM 2024
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
