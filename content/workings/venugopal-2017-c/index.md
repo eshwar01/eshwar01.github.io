@@ -7,6 +7,7 @@ publishDate: '2024-10-01T01:53:48.561014Z'
 publication_types:
 - manuscript
 publication: '*Working Paper*'
+featured: true
 doi: 10.2139/ssrn.2981033
 abstract: Using unique hand-collected data on startups that were seed-funded by individual
   angel investors, I show that social connections between angels and entrepreneurs,

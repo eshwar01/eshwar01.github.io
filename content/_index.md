@@ -38,7 +38,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - publication
+          - workings
         featured_only: true
     design:
       view: citation
