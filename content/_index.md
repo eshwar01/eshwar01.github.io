@@ -41,7 +41,7 @@ sections:
           - workings
         featured_only: true
     design:
-      view: citation
+      view: list
       columns: 1
 
   - block: collection
