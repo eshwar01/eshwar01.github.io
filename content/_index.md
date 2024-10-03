@@ -41,7 +41,7 @@ sections:
           - workings
         featured_only: true
     design:
-      view: list
+      view: compact
       columns: 1
 
   - block: collection
