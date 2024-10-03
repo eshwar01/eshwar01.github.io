@@ -41,7 +41,7 @@ sections:
           - workings
         featured_only: true
     design:
-      view: compact
+      view: Masonry
       columns: 1
 
   - block: collection
