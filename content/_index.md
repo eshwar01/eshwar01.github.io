@@ -21,7 +21,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: research
     content:
       title: 'Publications'
       text: ""
@@ -46,7 +46,7 @@ sections:
       columns: 1
 
   - block: collection
-    id: talks
+    id: teaching
     content:
       title: Recent & Upcoming Talks
       filters:
@@ -56,7 +56,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+    id: media
     content:
       title: Recent News
       subtitle: ''

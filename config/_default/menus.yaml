@@ -8,18 +8,18 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: /#papers
+    url: /#research
     weight: 11
   - name: Teaching
-    url: /#talks
+    url: /#teaching
     weight: 12
   - name: Media
-    url: /#news
+    url: /#media
     weight: 13
   - name: ...
     identifier: tags
     weight: 20
-  - name: Experience
+  - name: Photography
     parent: tags
     url: experience/
     weight: 10
