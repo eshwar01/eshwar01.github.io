@@ -68,9 +68,11 @@ sections:
         - Money and Capital Markets: 2010-2012
 
         **FinTech lecture notes:**
-        - Open Banking(uploads/004_open-banking.pdf)
-        - [Alternative Data](slides/alternative_data.pdf)
-        - [Decentralized Finance @UCF Dean's Speaker Series](./teaching/slides/ev_defi_nov_2023.pdf)
+        <ul>
+          <li><a href="uploads/004_open-banking.pdf">Open Banking</a></li>
+          <li><a href="uploads/alternative_data.pdf">Alternative Data</a></li>
+          <li><a href="uploads/ev_defi_nov_2023.pdf">Decentralized Finance @UCF Dean's Speaker Series</a></li>
+        </ul>
     design:      
       columns: 1
   - block: collection
