@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Photos
-      text: Some of the recent moments I have captured...
+      title: 'Photography'
+      text: ""
       filters:
         folders:
           - photography
+      count: 0    
     design:
-      view: article-grid
-      fill_image: true
-      columns: 2
+      view: compact
+      columns: 1              
 ---
