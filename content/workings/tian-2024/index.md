@@ -6,9 +6,6 @@ authors:
 - Vijay Yerramilli
 date: '2024-01-01'
 publishDate: '2024-10-01T01:53:48.576859Z'
-publication_types:
-- manuscript
-publication: '*Working Paper*'
 featured: true
 tags:
 - business concentration

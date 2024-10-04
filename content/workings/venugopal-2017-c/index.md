@@ -4,9 +4,6 @@ authors:
 - Buvaneshwaran Gokul Venugopal
 date: '2023-01-01'
 publishDate: '2024-10-01T01:53:48.561014Z'
-publication_types:
-- manuscript
-publication: '*Working Paper*'
 featured: true
 abstract: Using unique hand-collected data on startups that were seed-funded by individual
   angel investors, I show that social connections between angels and entrepreneurs,
