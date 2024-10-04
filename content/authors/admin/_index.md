@@ -22,6 +22,7 @@ role: Assistant Professor of Finance
 organizations:
   - name: University of Central Florida
     url: https://business.ucf.edu/person/buvaneshwaran-venugopal/
+    address: BA1 417, College of Business, University of Central Florida, 12744 Pegasus Drive, Orlando, FL 32816. +1 (407) 823-0896 eshwar@ucf.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
