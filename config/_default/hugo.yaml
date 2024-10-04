@@ -57,3 +57,14 @@ sitemap:
 # Custom CSS
 custom_css:
   - css/custom.css
+
+features:
+  avatar:
+    shape: square
+    # Use original image size
+    size: original
+
+# For hero images specifically
+hero:
+  # Use original image
+  resize_images: false
