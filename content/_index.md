@@ -103,18 +103,6 @@ sections:
         - Speaker & Panelist, Blockchain Task force in Tallahassee <a href="https://eshwarvenugopal.weebly.com/uploads/5/9/1/6/59166679/ucf-blockchain-taskforce-dec2019-v4_macro.pdf">[Presentation]</a> <a href="https://thefloridachannel.org/videos/12-13-19-florida-blockchain-task-force/">[Video]</a>
         - Panelist, 2018 Data Science Summit: Smart Cities of the Future
         - Moderator: India - Growth, Challenge, and Opportunity Series:  
-      
-      subtitle: FinTech @UCF
-      text: |-  
-        Master of Science in FinTech​
-          - ​FinTech Summit 2022 [Photos]
-          - FinTech Summit 2024 [Photos]
-        FinTech @Undergraduate level
-          -  Minor
-          -  Certificate  
-      
-      subtitle: Moderated Discussion @India Center
-      text: |-  
     design:      
       columns: 1
   - block: cta-card
