@@ -80,7 +80,7 @@ sections:
     content:
       title: Media
       text: |-
-        ### Expert Panels, Lectures, & Media Interviews:
+        #### Expert Panels, Lectures, & Media Interviews:
         - Fireside Chat on Digital Assets, 2024 FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Speaker, Blockchain and DeFi, 2024  FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Effect of pollution on businesses, CNBC TV18, December 2023
