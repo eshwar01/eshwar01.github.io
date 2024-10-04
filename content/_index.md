@@ -114,7 +114,7 @@ sections:
           -  Certificate  
       
       subtitle: Moderated Discussion @India Center
-        text: |-  
+      text: |-  
     design:      
       columns: 1
   - block: cta-card
