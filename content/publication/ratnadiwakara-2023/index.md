@@ -8,7 +8,6 @@ publishDate: '2024-09-29T21:09:31.215465Z'
 publication_types:
 - article-journal
 publication: '*Financial Management*'
-doi: 10.1111/fima.12414
 abstract: The demand for flood insurance is low when the frequency and severity of
   flood disasters are increasing due to climate change. We show that beliefs about
   climate change influence homeowners' choice and level of flood insurance coverage.

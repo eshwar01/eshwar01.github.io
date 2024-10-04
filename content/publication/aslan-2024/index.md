@@ -10,7 +10,6 @@ publishDate: '2024-09-29T21:09:31.206005Z'
 publication_types:
 - article-journal
 publication: '*Review of Corporate Finance Studies*'
-doi: 10.1093/rcfs/cfae019
 abstract: Industry competition shocks are major drivers of mergers and acquisitions
   (M&A). We document strong positive effects of competition shocks on M&A-related
   covenant redesign. Acquiring firms in high-competition environments are significantly

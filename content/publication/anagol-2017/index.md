@@ -11,7 +11,6 @@ publishDate: '2024-09-29T21:09:31.229504Z'
 publication_types:
 - article-journal
 publication: '*World Bank Economic Review*'
-doi: 10.1093/wber/lhv065
 abstract: Commissions-motivated agents have historically helped the development of
   many markets, but research suggests brokers motivated by commissions sometimes steer
   consumers towards inappropriate products. This issue is particularly important in

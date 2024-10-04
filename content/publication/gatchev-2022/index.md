@@ -9,7 +9,6 @@ publishDate: '2024-09-29T21:09:31.222202Z'
 publication_types:
 - article-journal
 publication: '*Research Policy*'
-doi: 10.1016/j.respol.2021.104426
 abstract: We propose a new measure of the exploratory activities of companies based
   on the idea that experimentation with new courses of action and the need to describe
   them entails the adoption of new words in firm regulatory disclosures. Unlike traditional

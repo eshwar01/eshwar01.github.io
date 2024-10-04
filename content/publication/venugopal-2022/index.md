@@ -8,7 +8,6 @@ publishDate: '2024-09-29T21:09:31.236433Z'
 publication_types:
 - article-journal
 publication: '*Review of Corporate Finance Studies*'
-doi: 10.1093/rcfs/cfab016
 abstract: 'Using hand-collected data, we show that coinvestment is widespread in the
   angel investment market, even among seed-stage startups. Individual angels with
   demonstrated seed-stage success experience an increase in the quantity, quality,
