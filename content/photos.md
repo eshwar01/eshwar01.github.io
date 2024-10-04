@@ -13,7 +13,7 @@ sections:
     content:
         title: 'Photography'
         text: 
-          ![Photo Description](/static/images/dsc-0073_1.jpg)
+          ![Photo Description](images/dsc-0073_1.jpg)
     design:
       columns: 1              
 ---
