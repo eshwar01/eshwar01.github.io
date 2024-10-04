@@ -108,17 +108,18 @@ sections:
           - <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://business.ucf.edu/wp-content/uploads/sites/4/2022/03/PRINT-AGENDA-FinTech-Summit_22.pdf">​FinTech Summit 2022</a> <a href="https://www.flickr.com/photos/ucfbusiness/albums/72177720297857935/">[Photos]</a>
           - <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://business.ucf.edu/wp-content/uploads/sites/4/2024/04/FinTech-Summit-2024-Agenda_Web.pdf">FinTech Summit 2024</a> <a href="https://www.flickr.com/photos/ucfbusiness/albums/72177720316076237/">[Photos]</a>
           <div class="video-container">
-            <iframe src="https://www.youtube.com/watch?v=8KquWxx1Fdg&ab_channel=UCFCollegeofBusiness"></iframe>
+            <iframe src="https://www.youtube.com/watch?v=8KquWxx1Fdg"></iframe>
           </div>
         #### FinTech @Undergraduate level
-          -  <a href="https://www.ucf.edu/degree/fintech-certificate-2/">Certificate</a> 
-          -  <a href="https://www.ucf.edu/degree/fintech-minor/">Minor</a>  
+          - <a href="https://www.ucf.edu/degree/fintech-certificate-2/">Certificate</a> 
+          - <a href="https://www.ucf.edu/degree/fintech-minor/">Minor</a>  
+
           <div class="video-container">
-            <iframe src="https://www.youtube.com/watch?v=wnSIEQ1pydE&ab_channel=UCFCollegeofBusiness"></iframe>
+            <iframe src="https://www.youtube.com/watch?v=wnSIEQ1pydE"></iframe>
           </div>
         ### Moderated Discussion @India Center:
          <div class="video-container">
-          <iframe src="https://www.youtube.com/watch?v=aIMYi_ttc8A&ab_channel=TheIndiaCenteratUCF"></iframe>
+          <iframe src="https://www.youtube.com/watch?v=aIMYi_ttc8A"></iframe>
         </div>
           
     design:      
