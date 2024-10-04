@@ -45,15 +45,28 @@ sections:
       view: Citation
       columns: 1
 
-  - block: collection
+  - block: markdown
     id: teaching
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
+      title: Teaching
+      text: |-
+        **Instructor**
+        - Foundations of FinTech (Undergraduate, Masters, & Ph.D.): University of Central Florida, 2019-
+        - Debt & Money Markets: University of Central Florida, 2020, 2022, 2024
+        - Corporate Finance: University of Houston - Summer 2016
+        - Financial Management: Monash University - Fall 2011 & Spring 2012
+
+        **Teaching Assistant: University of Houston, USA**
+        - Intermediate Corporate Finance: Valuation (MBA): 2013-2018 
+        - Managerial Finance (MBA): 2015 - 2018
+        - Game Theory (Ph.D.): 2015 - 2018
+        - Investments: 2013
+        - Principles of Financial Management: 2012-2013
+
+        **Teaching Associate: Monash University, Australia​**
+        - Financial Management: 2010 - 2012
+        - Money and Capital Markets: 2010-2012
+    design:      
       columns: 1
   - block: collection
     id: media
