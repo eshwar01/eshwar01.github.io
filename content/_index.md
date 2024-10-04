@@ -80,7 +80,7 @@ sections:
     content:
       title: Media
       text: |-
-        #### Expert Panels, Lectures, & Media Interviews:
+        ### Expert Panels, Lectures, & Media Interviews:
         - Fireside Chat on Digital Assets, 2024 FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Speaker, Blockchain and DeFi, 2024  FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Effect of pollution on businesses, CNBC TV18, December 2023
@@ -103,15 +103,24 @@ sections:
         - Speaker & Panelist, Blockchain Task force in Tallahassee <a href="https://eshwarvenugopal.weebly.com/uploads/5/9/1/6/59166679/ucf-blockchain-taskforce-dec2019-v4_macro.pdf">[Presentation]</a> <a href="https://thefloridachannel.org/videos/12-13-19-florida-blockchain-task-force/">[Video]</a>
         - Panelist, 2018 Data Science Summit: Smart Cities of the Future
         - Moderator: India - Growth, Challenge, and Opportunity Series  
-        #### FinTech @UCF:
-        ##### [Master of Science in FinTech​](https://business.ucf.edu/degree/ms-fintech/)
-          - ​FinTech Summit 2022 [Photos]
-          - FinTech Summit 2024 [Photos]
-        ##### FinTech @Undergraduate level
-          -  Minor
-          -  Certificate  
-        #### Moderated Discussion @India Center:
-       
+        ### FinTech @UCF:
+        #### <a href="https://business.ucf.edu/degree/ms-fintech/">Master of Science in FinTech</a>
+          - <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://business.ucf.edu/wp-content/uploads/sites/4/2022/03/PRINT-AGENDA-FinTech-Summit_22.pdf">​FinTech Summit 2022</a> <a href="https://www.flickr.com/photos/ucfbusiness/albums/72177720297857935/">[Photos]</a>
+          - <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://business.ucf.edu/wp-content/uploads/sites/4/2024/04/FinTech-Summit-2024-Agenda_Web.pdf">FinTech Summit 2024</a> <a href="https://www.flickr.com/photos/ucfbusiness/albums/72177720316076237/">[Photos]</a>
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/watch?v=8KquWxx1Fdg&ab_channel=UCFCollegeofBusiness"></iframe>
+          </div>
+        #### FinTech @Undergraduate level
+          -  <a href="https://www.ucf.edu/degree/fintech-certificate-2/">Certificate</a> 
+          -  <a href="https://www.ucf.edu/degree/fintech-minor/">Minor</a>  
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/watch?v=wnSIEQ1pydE&ab_channel=UCFCollegeofBusiness"></iframe>
+          </div>
+        ### Moderated Discussion @India Center:
+         <div class="video-container">
+          <iframe src="https://www.youtube.com/watch?v=aIMYi_ttc8A&ab_channel=TheIndiaCenteratUCF"></iframe>
+        </div>
+          
     design:      
       columns: 1
   - block: cta-card
