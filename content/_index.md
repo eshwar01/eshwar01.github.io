@@ -41,7 +41,7 @@ sections:
           - workings
         featured_only: true
     design:
-      view: masonry
+      view: Citation
       columns: 1
 
   - block: collection
