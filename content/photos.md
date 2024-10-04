@@ -13,7 +13,7 @@ sections:
     content:
         title: 'Photography'
         text: 
-            ![AltText](photography/_DSC0082-2.jpg)
+            ![AltText](/photography/_DSC0082-2.jpg)
     design:
       columns: 1              
 ---
