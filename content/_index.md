@@ -80,7 +80,7 @@ sections:
     content:
       title: Media
       text: |-
-        # Expert Panels, Lectures, & Media Interviews:
+        #### Expert Panels, Lectures, & Media Interviews:
         - Fireside Chat on Digital Assets, 2024 FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Speaker, Blockchain and DeFi, 2024  FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Effect of pollution on businesses, CNBC TV18, December 2023
@@ -96,21 +96,21 @@ sections:
         - Cryptocurrencies: A non-technical primer, 2021 UCF Foundation 
         - Uganda’s gold discovery: What it could mean for crypto <a href="https://cointelegraph.com/news/uganda-s-gold-discovery-what-it-could-mean-for-crypto">[Cointelegraph]</a>
         - Crypto’s crash shows digital currency is not a hedge against inflation <a href="https://qz.com/2116509/crypto-isnt-a-safe-haven-during-high-inflation/">[Quartz]</a>
-        - Stablecoins aren’t stable: Why TerraUSD is crashing <a href="https://qz.com/2165213/stablecoins-arent-stable-why-terra-is-crashing/">[Quartz]</a>
+        - Stablecoins aren't stable: Why TerraUSD is crashing <a href="https://qz.com/2165213/stablecoins-arent-stable-why-terra-is-crashing/">[Quartz]</a>
         - How high can meme coin prices go? <a href="https://qz.com/2080561/how-high-can-dogecoin-and-shiba-inu-coin-go/">[Quartz]</a>
         - Are NFTs Really a Thing? <a href="https://business.ucf.edu/are-nfts-really-a-thing/">[Podcast]</a>
         - On security while investing in Cryptocurrencies <a href="https://www.mynews13.com/fl/orlando/news/2021/04/24/consumers-are-on-their-own-in-the-world-of-cryptocurrency#">[News 13]</a>
         - Speaker & Panelist, Blockchain Task force in Tallahassee <a href="https://eshwarvenugopal.weebly.com/uploads/5/9/1/6/59166679/ucf-blockchain-taskforce-dec2019-v4_macro.pdf">[Presentation]</a> <a href="https://thefloridachannel.org/videos/12-13-19-florida-blockchain-task-force/">[Video]</a>
         - Panelist, 2018 Data Science Summit: Smart Cities of the Future
         - Moderator: India - Growth, Challenge, and Opportunity Series  
-        # FinTech @UCF:
-        ## Master of Science in FinTech​
+        #### FinTech @UCF:
+        ##### [Master of Science in FinTech​](https://business.ucf.edu/degree/ms-fintech/)
           - ​FinTech Summit 2022 [Photos]
           - FinTech Summit 2024 [Photos]
-        ## FinTech @Undergraduate level
+        ##### FinTech @Undergraduate level
           -  Minor
           -  Certificate  
-        # Moderated Discussion @India Center:
+        #### Moderated Discussion @India Center:
        
     design:      
       columns: 1
