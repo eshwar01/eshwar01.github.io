@@ -13,7 +13,7 @@ sections:
     content:
       title: 'Photography'
       text: |
-        {{< figure src="images/DSC0082-2.jpg" title="Photo Title" >}}
+        {{< figure src="/images/DSC0082-2.jpg" title="Photo Title" >}}
     design:
       columns: 1          
 ---
