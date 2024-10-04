@@ -11,9 +11,9 @@ design:
 sections:
   - block: markdown
     content:
-        title: 'Photography'
-        text: 
-          </* figure src="images/DSC0082-2.jpg" title="Photo Title" */>
+      title: 'Photography'
+      text: |
+        {{< figure src="photography/DSC0082-2.jpg" title="Photo Title" >}}
     design:
-      columns: 1              
+      columns: 1          
 ---
