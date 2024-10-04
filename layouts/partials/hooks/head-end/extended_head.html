@@ -7,8 +7,9 @@
   .avatar-circle,
   .avatar {
     border-radius: 0 !important;
-    width: 500px !important;
-    height: 500px !important;
+    width: auto !important; /* Allows the image to use its natural width */
+    height: auto !important; /* Allows the image to use its natural height */
+    max-width: 100% !important; /* Ensures the image doesn't overflow its container */
     object-fit: cover !important;
     margin-top: -40px !important;
     margin-left: -30px !important;
@@ -21,6 +22,6 @@
     clear: both;
   }
   #profile .col-12.col-lg-8 {
-    padding-top: 60px;
+    padding-top: 30px;
   }
 </style>
