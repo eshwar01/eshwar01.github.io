@@ -13,7 +13,7 @@ sections:
     content:
         title: 'Photography'
         text: 
-          ![Photo Description](images/dsc-0073_1.jpg)
+          </* figure src="images/DSC0082-2.jpg" title="Photo Title" */>
     design:
       columns: 1              
 ---
