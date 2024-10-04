@@ -11,9 +11,9 @@ design:
 sections:
   - block: markdown
     content:
-      title: 'Photography'
-      text: 
-        ![Alt Text](photography/_DSC0082-2.jpg)
+        title: 'Photography'
+        text: 
+            [AltText](photography/_DSC0082-2.jpg)
     design:
       columns: 1              
 ---
