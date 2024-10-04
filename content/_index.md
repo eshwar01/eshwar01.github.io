@@ -80,7 +80,7 @@ sections:
     content:
       title: Media
       text: |-
-        - Fireside Chat on Digital Assets, 2024 FinTech Summit <ul><li><a href="https://business.ucf.edu/fintech-summit/">[UCF]</a></li></ul>
+        - Fireside Chat on Digital Assets, 2024 FinTech Summit<a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Speaker, Blockchain and DeFi, 2024  FinTech Summit [UCF](https://business.ucf.edu/fintech-summit/)
         - Effect of pollution on businesses, CNBC TV18, December 2023
         - The (Potential) Benefits & Risks of Decentralized Finance}, 2023 Dean's Speaker Series [UCF](https://eshwarvenugopal.weebly.com/teaching.html)
