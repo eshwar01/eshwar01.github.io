@@ -62,3 +62,7 @@ features:
 # Custom CSS
 custom_css:
   - css/custom.css
+
+# Citation style
+publications:
+  citation_style: apa  # Change this value to your preferred style

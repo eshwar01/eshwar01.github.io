@@ -43,7 +43,6 @@ sections:
         featured_only: true
     design:
       view: Citation
-      list_format: 2
       columns: 1
 
   - block: collection
