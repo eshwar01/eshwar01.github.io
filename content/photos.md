@@ -13,7 +13,7 @@ sections:
     content:
         title: 'Photography'
         text: 
-            ![AltText](/photography/_DSC0082-2.jpg)
+          {{< figure src="/photography/_DSC0082-2.jpg" caption="AltText" >}}
     design:
       columns: 1              
 ---
