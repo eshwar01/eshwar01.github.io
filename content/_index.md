@@ -32,6 +32,7 @@ sections:
       count: 0    
     design:
       view: citation
+      list_format: 1
       columns: 1  
   - block: collection
     content:
@@ -42,7 +43,7 @@ sections:
         featured_only: true
     design:
       view: Citation
-      list_format: 1
+      list_format: 2
       columns: 1
 
   - block: collection
