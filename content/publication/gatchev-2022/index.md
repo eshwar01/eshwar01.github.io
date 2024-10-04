@@ -27,7 +27,4 @@ tags:
 - Innovation
 - Learning by doing
 - Textual analysis
-links:
-- name: URL
-  url: https://doi.org/10.1016/j.respol.2021.104426
 ---
