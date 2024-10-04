@@ -2,12 +2,12 @@
 .avatar-circle,
 .avatar {
   border-radius: 0 !important;
-  width: auto !important; /* Allows the image to use its natural width */
-  height: auto !important; /* Allows the image to use its natural height */
+  width: 500px !important; /* Allows the image to use its natural width */
+  height: 500px !important; /* Allows the image to use its natural height */
   max-width: 100% !important; /* Ensures the image doesn't overflow its container */
   object-fit: cover !important;
-  margin-top: -40px !important;
-  margin-left: -30px !important;
+  margin-top: -30px !important;
+  margin-left: -20px !important;
 }
 
 #profile .network-icon {
