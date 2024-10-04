@@ -50,7 +50,7 @@ sections:
     content:
       title: Teaching
       text: |-
-        **Instructor**
+        **Instructor:**
         - Foundations of FinTech (Undergraduate, Masters, & Ph.D.): University of Central Florida, 2019-
         - Debt & Money Markets: University of Central Florida, 2020, 2022, 2024
         - Corporate Finance: University of Houston - Summer 2016
@@ -66,6 +66,11 @@ sections:
         **Teaching Associate: Monash University, Australia​**
         - Financial Management: 2010 - 2012
         - Money and Capital Markets: 2010-2012
+
+        **FinTech lecture notes:**
+        - [Open banking](teaching/slides/004_open-banking.pdf)
+        - [Alternative Data](teaching/slides/alternative_data.pdf)
+        - [Decentralized Finance @UCF Dean's Speaker Series](teaching/slides/ev_defi_nov_2023.pdf)
     design:      
       columns: 1
   - block: collection
