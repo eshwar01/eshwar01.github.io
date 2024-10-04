@@ -9,15 +9,10 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: 'Photography'
-      text: ""
-      filters:
-        folders:
-          - photography
-      count: 0    
+      text: ![Alt Text](static/photography/_DSC0082-2.jpg)
     design:
-      view: compact
       columns: 1              
 ---
