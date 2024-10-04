@@ -79,8 +79,8 @@ sections:
     id: media
     content:
       title: Media
-      subtitle: Expert Panels, Lectures, & Media Interviews
       text: |-
+        # Expert Panels, Lectures, & Media Interviews:
         - Fireside Chat on Digital Assets, 2024 FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Speaker, Blockchain and DeFi, 2024  FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Effect of pollution on businesses, CNBC TV18, December 2023
@@ -102,7 +102,16 @@ sections:
         - On security while investing in Cryptocurrencies <a href="https://www.mynews13.com/fl/orlando/news/2021/04/24/consumers-are-on-their-own-in-the-world-of-cryptocurrency#">[News 13]</a>
         - Speaker & Panelist, Blockchain Task force in Tallahassee <a href="https://eshwarvenugopal.weebly.com/uploads/5/9/1/6/59166679/ucf-blockchain-taskforce-dec2019-v4_macro.pdf">[Presentation]</a> <a href="https://thefloridachannel.org/videos/12-13-19-florida-blockchain-task-force/">[Video]</a>
         - Panelist, 2018 Data Science Summit: Smart Cities of the Future
-        - Moderator: India - Growth, Challenge, and Opportunity Series:  
+        - Moderator: India - Growth, Challenge, and Opportunity Series  
+        # FinTech @UCF:
+        ## Master of Science in FinTech​
+          - ​FinTech Summit 2022 [Photos]
+          - FinTech Summit 2024 [Photos]
+        ## FinTech @Undergraduate level
+          -  Minor
+          -  Certificate  
+        # Moderated Discussion @India Center:
+       
     design:      
       columns: 1
   - block: cta-card
