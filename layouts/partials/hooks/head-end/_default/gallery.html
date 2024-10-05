@@ -5,12 +5,11 @@
     {{ .Content }}
     
     <div class="gallery-grid">
-        {{ range (where .Site.RegularPages "Section" "gallery") }}
-            {{ range .Resources.ByType "image" }}
+        {{ $images := .Resources.ByType "image" }}
+        {{ range $images }}
             <div class="gallery-item">
-                <img src="{{ .RelPermalink }}" alt="{{ .Title }}">
+                <img src="{{ .RelPermalink }}" alt="{{ .Name }}">
             </div>
-            {{ end }}
         {{ end }}
     </div>
 </div>
