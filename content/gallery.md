@@ -9,6 +9,6 @@ type: widget_page
     album="gallery-album" 
     images="
       DSC_0250.jpg:Sunset at the beach
-      dsc-1576-10.jpg:Mountain vista
+      dsc-1576-10.jpg:Mountain
     " 
 >}}
