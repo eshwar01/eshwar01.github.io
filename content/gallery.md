@@ -28,16 +28,49 @@ title: Photo Gallery
 </style>
 
 <div class="gallery-grid">
-     <div class="gallery-item">
-        <a href="/images/DSC_0250.jpg" data-fancybox="gallery">
-            <img src="/images/DSC_0250.jpg" alt="Description of image 1">
+    <div class="gallery-item">
+        <a href="/images/badlands.jpg" data-fancybox="gallery">
+            <img src="/images/badlands.jpg" alt="Description of image 1">
         </a>
     </div>
-    
    <div class="gallery-item">
-        <a href="/images/DSC_1089.jpg" data-fancybox="gallery">
-            <img src="/images/DSC_1089.jpg" alt="Description of image 2">
+        <a href="/images/field_of_light.jpg" data-fancybox="gallery">
+            <img src="/images/field_of_light.jpg" alt="Description of image 2">
         </a>
     </div>
-    
+    <div class="gallery-item">
+        <a href="/images/big_thicket.jpg" data-fancybox="gallery">
+            <img src="/images/big_thicket.jpg" alt="Description of image 3">
+        </a>
+    </div>
+    <div class="gallery-item">
+        <a href="/images/sydney_walk.jpg" data-fancybox="gallery">
+            <img src="/images/sydney_walk.jpg" alt="Description of image 4">
+        </a>
+    </div>
+    <div class="gallery-item">
+        <a href="/images/route66.jpg" data-fancybox="gallery">
+            <img src="/images/route66.jpg" alt="Description of image 5">
+        </a>
+    </div>
+     <div class="gallery-item">
+        <a href="/images/simba_orange.jpg" data-fancybox="gallery">
+            <img src="/images/simba_orange.jpg" alt="Description of image 6">
+        </a>
+    </div>
+    <div class="gallery-item">
+        <a href="/images/simba_run.jpg" data-fancybox="gallery">
+            <img src="/images/simba_run.jpg" alt="Description of image 6">
+        </a>
+    </div>
+    <div class="gallery-item">
+        <a href="/images/fei_monahans.jpg" data-fancybox="gallery">
+            <img src="/images/fei_monahans.jpg" alt="Description of image 6">
+        </a>
+    </div>
+    <div class="gallery-item">
+        <a href="/images/sangwon.jpg" data-fancybox="gallery">
+            <img src="/images/sangwon.jpg" alt="Description of image 6">
+        </a>
+    </div>
 </div>
