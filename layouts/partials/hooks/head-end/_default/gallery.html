@@ -1,17 +1,16 @@
+{{/* layouts/_default/gallery.html */}}
 {{ define "main" }}
 <div class="container">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     
     <div class="gallery-grid">
-        {{ $images := .Page.Resources.ByType "image" }}
-        {{ range $images }}
-        {{ $image := .Resize "800x" }}
-        <div class="gallery-item">
-            <a href="{{ .RelPermalink }}" data-fancybox="gallery">
-                <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
-            </a>
-        </div>
+        {{ range (where .Site.RegularPages "Section" "gallery") }}
+            {{ range .Resources.ByType "image" }}
+            <div class="gallery-item">
+                <img src="{{ .RelPermalink }}" alt="{{ .Title }}">
+            </div>
+            {{ end }}
         {{ end }}
     </div>
 </div>
