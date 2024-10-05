@@ -20,8 +20,6 @@ sections:
         url: uploads/venugopal_cv_2024_aug-public.pdf
     design:
       columns: '1'
-      spacing:
-        padding: ["20px", "0", "20px", "0"]
   - block: collection
     id: research
     content:
