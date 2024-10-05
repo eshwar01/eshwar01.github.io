@@ -44,7 +44,7 @@ profiles:
 
 Welcome to my website! 
 
-I am Buvaneshwaran Venugopal and go by Eshwar (E-sh-ver). I am a financial economist who conducts empirical research in corporate and entrepreneurial finance areas. Specifically, I study how businesses are affected by incentive mechanisms, networks, and environmental issues by leveraging natural language processing and machine learning techniques.
+I am Buvaneshwaran Venugopal and go by Eshwar (E-sh-ver). I am a financial economist who conducts empirical research in corporate and entrepreneurial finance areas. Specifically, I study how businesses are affected by incentive mechanisms, networks, technology, and environmental issues by leveraging natural language processing and machine learning techniques.
 
 Contact details:
 BA1 417, College of Business,
