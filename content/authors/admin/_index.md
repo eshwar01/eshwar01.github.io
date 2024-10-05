@@ -23,12 +23,6 @@ organizations:
   - name: University of Central Florida
     url: https://business.ucf.edu/person/buvaneshwaran-venugopal/
 
-address:
-  street: BA1 417, College of Business
-  city: University of Central Florida
-  region: 12744 Pegasus Drive
-  postcode: Orlando, FL 32816
-  country: eshwar@ucf.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,4 +44,11 @@ profiles:
 
 Welcome to my website! 
 
-I am a financial economist who conducts empirical research in corporate and entrepreneurial finance areas. Specifically, I study how businesses are affected by incentive mechanisms, networks, and environmental issues by leveraging natural language processing and machine learning techniques.
+I am Buvaneshwaran Venugopal and go by Eshwar (E-sh-ver). I am a financial economist who conducts empirical research in corporate and entrepreneurial finance areas. Specifically, I study how businesses are affected by incentive mechanisms, networks, and environmental issues by leveraging natural language processing and machine learning techniques.
+
+Contact details:
+BA1 417, College of Business,
+University of Central Florida,
+12744 Pegasus Drive,
+Orlando, FL 32816.
+Email: eshwar@ucf.edu

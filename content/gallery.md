@@ -1,7 +1,7 @@
 ---
-title: Photo Gallery
+title: Photography
 ---
-
+I am photography enthusiast. Below are a few of my shots...
 <style>
 .gallery-grid {
     display: grid;
@@ -73,4 +73,39 @@ title: Photo Gallery
             <img src="/images/sangwon.jpg" alt="Description of image 6">
         </a>
     </div>
+    <div class="gallery-item">
+        <a href="/images/eiffel_night.jpg" data-fancybox="gallery">
+            <img src="/images/eiffel_night.jpg" alt="Description of image 6">
+        </a>
+    </div>
+    <div class="gallery-item">
+        <a href="/images/paris_wheel.jpg" data-fancybox="gallery">
+            <img src="/images/paris_wheel.jpg" alt="Description of image 6">
+        </a>
+    </div>
+   <div class="gallery-item">
+        <a href="/images/paris_street.jpg" data-fancybox="gallery">
+            <img src="/images/paris_street.jpg" alt="Description of image 6">
+        </a>
+    </div> 
+    <div class="gallery-item">
+        <a href="/images/hallway.jpg" data-fancybox="gallery">
+            <img src="/images/hallway.jpg" alt="Description of image 6">
+        </a>
+    </div> 
+    <div class="gallery-item">
+        <a href="/images/bug_macro.jpg" data-fancybox="gallery">
+            <img src="/images/bug_macro.jpg" alt="Description of image 6">
+        </a>
+    </div> 
+    <div class="gallery-item">
+        <a href="/images/primate.jpg" data-fancybox="gallery">
+            <img src="/images/primate.jpg" alt="Description of image 6">
+        </a>
+    </div> 
+    <div class="gallery-item">
+        <a href="/images/valley.jpg" data-fancybox="gallery">
+            <img src="/images/valley.jpg" alt="Description of image 6">
+        </a>
+    </div> 
 </div>
