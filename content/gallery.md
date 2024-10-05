@@ -5,4 +5,10 @@ date: '2024-10-04'
 type: widget_page
 ---
 
-{{< gallery album="gallery-album" >}}
+{{< gallery-album 
+    album="gallery-album" 
+    images="
+      DSC_0250.jpg:Sunset at the beach
+      dsc-1576-10.jpg:Mountain vista
+    " 
+>}}
