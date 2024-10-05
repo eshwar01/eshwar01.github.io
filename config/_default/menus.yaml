@@ -19,7 +19,7 @@ main:
   - name: ...
     identifier: tags
     weight: 20
-  - name: Photography
+  - name: Gallery
     parent: tags
     url: gallery/
     weight: 10
