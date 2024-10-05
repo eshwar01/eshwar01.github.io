@@ -21,5 +21,5 @@ main:
     weight: 20
   - name: Gallery
     parent: tags
-    url: gallery/
+    url: /gallery/
     weight: 10
