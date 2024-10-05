@@ -7,11 +7,3 @@ header:
   caption: ""
   image: ""
 ---
-
-{{< gallery-album 
-    album="gallery-album" 
-    images="
-      DSC_0250.jpg:Sunset at the beach
-      dsc-1576-10.jpg:Mountain vista
-    " 
->}}
