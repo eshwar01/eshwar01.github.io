@@ -51,8 +51,10 @@ sections:
       title: Teaching
       text: |-
         **Instructor:**
-        - Foundations of FinTech (Undergraduate, Masters, & Ph.D.): University of Central Florida, 2019-
-        - Debt & Money Markets: University of Central Florida, 2020, 2022, 2024
+        - Foundations of FinTech (Undergraduate): University of Central Florida, Spring 2019-
+        - Foundations of FinTech (Masters'): University of Central Florida, Fall 2022-
+        - Ph.D Seminar on FinTech: University of Central Florida, Spring 2021, 2023
+        - Debt & Money Markets: University of Central Florida, Spring 2020, 2022, 2024
         - Corporate Finance: University of Houston - Summer 2016
         - Financial Management: Monash University - Fall 2011 & Spring 2012
 
