@@ -36,8 +36,8 @@ profiles:
     url: https://www.linkedin.com/in/eshwar-venugopal
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=IY4warsAAAAJ&hl=en
-  - icon: custom/ucf_knight
-    url: https://business.ucf.edu/person/buvaneshwaran-venugopal/
+  - icon: custom/SSRN
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1936852 
 ---
 ## About me
 
