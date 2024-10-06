@@ -66,3 +66,15 @@ custom_css:
 # Citation style
 publications:
   citation_style: apa  # Change this value to your preferred style
+
+#avatar
+avatar:
+  shape: square  # or 'square' if you prefer
+  # Add these lines to control image quality
+  quality: 100   # Highest quality (1-100)
+
+# If the above doesn't work, try adding to config.yaml or config.toml
+imaging:
+  quality: 100
+  resampleFilter: CatmullRom
+  anchor: Smart
