@@ -58,3 +58,34 @@
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+
+/* 1. Fix spacing between institution and contact icons */
+.network-icon {
+  margin-top: 0 !important;
+}
+
+.article-container .avatar-wrapper {
+  margin-bottom: 10px;
+}
+
+.article-container .network-icon {
+  padding-top: 0;
+}
+
+/* Optional: Adjust spacing of institution icons if needed */
+.network-icon.education {
+  margin-bottom: 10px;
+}
+
+/* 2. Reduce margins on both sides */
+.article-container {
+  max-width: 90%;
+  padding: 0 20px;
+}
+
+@media screen and (min-width: 1200px) {
+  .article-container {
+    max-width: 1200px;
+  }
+}
