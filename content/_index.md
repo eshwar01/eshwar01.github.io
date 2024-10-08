@@ -83,18 +83,19 @@ sections:
       title: Media
       text: |-
         #### Expert Panels, Lectures, & Media Interviews:
+        - Making India an Advanced Economy by 2047: What Will It Take?, Moderator <a href="https://events.ucf.edu/event/3524624/making-india-an-advanced-economy-by-2047-what-will-it-take/">[India Center]</a>
         - Fireside Chat on Digital Assets, 2024 FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
-        - Speaker, Blockchain and DeFi, 2024  FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
+        - Blockchain and DeFi, 2024  FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Effect of pollution on businesses, CNBC TV18, December 2023
         - The (Potential) Benefits & Risks of Decentralized Finance}, 2023 Dean's Speaker Series <a href="https://eshwarvenugopal.weebly.com/teaching.html">[UCF]</a>
         - Government Infusions and Financial Stability, Moderator <a href="https://sciences.ucf.edu/news/india-center-webinar-financial-stability/">[India Center]</a>
         - Rattled crypto industry could emerge stronger after USDC Depeg <a href="https://cointelegraph.com/news/rattled-crypto-industry-could-emerge-stronger-after-usdc-depeg">[Cointelegraph]</a>
         - Stablecoins: good as the buck, or breaking the buck? <a href="https://www.risk.net/investing/risk-management/7955944/stablecoins-good-as-the-buck-or-breaking-the-buck">[Risk.net]</a>
         - Stability of Stablecoins and FTX Collapse <a href="https://cointelegraph.com/news/how-stable-are-stablecoins-in-the-ftx-crypto-market-contagion">[Cointelegraph]</a>
-        - 2022 Federal Housing Finance Agency's Econ Summit, Panelist <a href="https://www.fhfa.gov/Media/Documents/FHFA-Econ-Summit-Agenda-Fall-2022.pdf">[FHFA]</a>
-        - Speaker, FinTech & Blockchain Session, 2022 UCF Annual Accounting Conference <a href="https://business.ucf.edu/wp-content/uploads/sites/4/2022/05/Final_0505_2022-UCF-Accounting-Conference-Schedule_Rm_Assigns.pdf">[UCF]</a>
-        - Moderator, FinTech Digital Transformation Panel, 2022 UCF FinTech Summit <a href="https://business.ucf.edu/fintech-summit-2022/">[UCF]</a>
-        - Panelist, Fintech and Blockchain, 2022 <a href="https://www.cecs.ucf.edu/utvs/2022-presenters/">[UTVS]</a>
+        - 2022 Federal Housing Finance Agency's Econ Summit <a href="https://www.fhfa.gov/Media/Documents/FHFA-Econ-Summit-Agenda-Fall-2022.pdf">[FHFA]</a>
+        - FinTech & Blockchain Session, 2022 UCF Annual Accounting Conference <a href="https://business.ucf.edu/wp-content/uploads/sites/4/2022/05/Final_0505_2022-UCF-Accounting-Conference-Schedule_Rm_Assigns.pdf">[UCF]</a>
+        - FinTech Digital Transformation Panel, Moderator, 2022 UCF FinTech Summit <a href="https://business.ucf.edu/fintech-summit-2022/">[UCF]</a>
+        - Fintech and Blockchain, 2022 <a href="https://www.cecs.ucf.edu/utvs/2022-presenters/">[UTVS]</a>
         - Cryptocurrencies: A non-technical primer, 2021 UCF Foundation 
         - Uganda’s gold discovery: What it could mean for crypto <a href="https://cointelegraph.com/news/uganda-s-gold-discovery-what-it-could-mean-for-crypto">[Cointelegraph]</a>
         - Crypto’s crash shows digital currency is not a hedge against inflation <a href="https://qz.com/2116509/crypto-isnt-a-safe-haven-during-high-inflation/">[Quartz]</a>
@@ -102,8 +103,8 @@ sections:
         - How high can meme coin prices go? <a href="https://qz.com/2080561/how-high-can-dogecoin-and-shiba-inu-coin-go/">[Quartz]</a>
         - Are NFTs Really a Thing? <a href="https://business.ucf.edu/are-nfts-really-a-thing/">[Podcast]</a>
         - On security while investing in Cryptocurrencies <a href="https://www.mynews13.com/fl/orlando/news/2021/04/24/consumers-are-on-their-own-in-the-world-of-cryptocurrency#">[News 13]</a>
-        - Speaker & Panelist, Blockchain Task force in Tallahassee <a href="https://eshwarvenugopal.weebly.com/uploads/5/9/1/6/59166679/ucf-blockchain-taskforce-dec2019-v4_macro.pdf">[Presentation]</a> <a href="https://thefloridachannel.org/videos/12-13-19-florida-blockchain-task-force/">[Video]</a>
-        - Panelist, 2018 Data Science Summit: Smart Cities of the Future
+        - Blockchain Task force in Tallahassee, Speaker & Panelist <a href="https://eshwarvenugopal.weebly.com/uploads/5/9/1/6/59166679/ucf-blockchain-taskforce-dec2019-v4_macro.pdf">[Presentation]</a> <a href="https://thefloridachannel.org/videos/12-13-19-florida-blockchain-task-force/">[Video]</a>
+        - 2018 Data Science Summit: Smart Cities of the Future, Panelist
         - Moderator: India - Growth, Challenge, and Opportunity Series  
         
         ### FinTech @UCF:
