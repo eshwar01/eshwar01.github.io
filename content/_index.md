@@ -125,10 +125,15 @@ sections:
               <iframe src="https://www.youtube.com/embed/wnSIEQ1pydE"></iframe>
           </div>
         
-        ### Moderated Discussion @India Center:
-          <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/aIMYi_ttc8A"></iframe>
-          </div>    
+        ### Moderated Discussions @India Center:
+          - Do Repeated Cash Infusions Help Financial Stability? (Moderator)
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/aIMYi_ttc8A"></iframe>
+            </div>    
+          - Making India an Advanced Economy by 2047 (Moderator)
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/OXIfoHy-Ql8"></iframe>
+            </div>    
     design:      
       columns: 1
 ---
