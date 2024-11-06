@@ -18,7 +18,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Venugopal_CV_Aug2024.pdf
+        url: uploads/Venugopal_CV.pdf
     design:
       columns: '1'
   - block: collection
