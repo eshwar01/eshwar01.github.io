@@ -72,12 +72,12 @@ sections:
 
         **FinTech lecture notes:**
         <ul>
-          <li><a href="uploads/003_Banking.pdf">Banking</a></li>, <li><a href="uploads/004_open-banking.pdf">Open Banking</a></li>
-          Marketplace financing: <li><a href="uploads/006_P2P-Lending.pdf">P2P Lending</a></li>, <li><a href="uploads/006_Crowdfunding.pdf">Crowd Financing</a></li>
+          <li><a href="uploads/003_Banking.pdf">Banking</a>, <a href="uploads/004_open-banking.pdf">Open Banking</a></li>
+          <li>Marketplace financing: <a href="uploads/006_P2P-Lending.pdf">P2P Lending</a>, <a href="uploads/006_Crowdfunding.pdf">Crowd Financing</a></li>
           <li><a href="uploads/alternative_data.pdf">Alternative Data</a></li>
-          Blockchain: <li><a href="uploads/009_Blockchain.pdf">I</a></li>, <li><a href="uploads/010_Blockchain-extended.pdf">I</a></li>, <li><a href="uploads/011_Toy-Blockchain-Implementation.pdf">I</a></li>
-          Payments: <li><a href="uploads/013_Financial-Services-Payments.pdf">Traditional</a></li>, <li><a href="uploads/012_Cryptocurrencies & ICOs.pdf">Cryptocurrencies & ICO</a></li>
-          Decentralized Finance: <li><a href="uploads/013_DeFi.pdf">I</a></li>, <li><a href="uploads/014_DeFi-II">II</a></li> <li><a href="uploads/ev_defi_nov_2023.pdf">Dean's Speaker Series</a></li>
+          <li>Blockchain: <a href="uploads/009_Blockchain.pdf">I</a>, <a href="uploads/010_Blockchain-extended.pdf">II</a>, <a href="uploads/011_Toy-Blockchain-Implementation.pdf">III</a></li>
+          <li>Payments: <a href="uploads/013_Financial-Services-Payments.pdf">Traditional</a>, <a href="uploads/012_Cryptocurrencies & ICOs.pdf">Cryptocurrencies & ICO</a></li>
+          <li>Decentralized Finance: <a href="uploads/013_DeFi.pdf">I</a>, <a href="uploads/014_DeFi-II">II</a>, <a href="uploads/ev_defi_nov_2023.pdf">Dean's Speaker Series</a></li>
         </ul>
     design:      
       columns: 1
