@@ -54,13 +54,9 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-pages-artifact@v3
       with:
-        name: 
         path: ./public
-        retention-days: 5
-        overwrite: true
-        compression-level: 6
 
   # Deploy website to GitHub Pages hosting
   deploy:
@@ -73,6 +69,6 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
