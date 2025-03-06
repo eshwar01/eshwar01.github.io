@@ -58,7 +58,9 @@ jobs:
       with:
         name: github-pages
         path: ./public
-        if-no-files-found: error
+        retention-days: 5
+        overwrite: true
+        compression-level: 6
 
   # Deploy website to GitHub Pages hosting
   deploy:
