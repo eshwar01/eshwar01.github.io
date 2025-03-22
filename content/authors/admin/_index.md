@@ -27,6 +27,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: custom/Alabama_Crimson_Tide_logo
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1936852  
   - icon: at-symbol
     url: 'mailto:eshwar@ucf.edu'
     label: E-mail Me
@@ -37,9 +39,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=IY4warsAAAAJ&hl=en
   - icon: custom/SSRN
-    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1936852 
-  - icon: custom/Alabama_Crimson_Tide_logo
-    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1936852   
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1936852  
 ---
 ## About me
 
