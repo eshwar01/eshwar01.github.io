@@ -27,8 +27,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/Alabama_Crimson_Tide_logo
-    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1936852  
   - icon: at-symbol
     url: 'mailto:eshwar@ucf.edu'
     label: E-mail Me
