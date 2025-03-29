@@ -30,8 +30,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:eshwar@ucf.edu'
     label: E-mail Me
-  - icon: custom/Alabama1
-    url: http://culverhouse.ua.edu
   - icon: brands/x
     url: https://x.com/EshwarVenu
   - icon: brands/linkedin
