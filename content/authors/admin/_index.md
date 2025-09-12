@@ -20,6 +20,7 @@ role: Assistant Professor of Finance
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - icon: custom/Alabama
   - name: University of Alabama
     url: https://culverhouse.ua.edu/people/eshwar-venugopal/
 
@@ -38,8 +39,6 @@ profiles:
     url: https://scholar.google.com/citations?user=IY4warsAAAAJ&hl=en
   - icon: custom/SSRN
     url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1936852
-  - icon: custom/Alabama
-    url: https://culverhouse.ua.edu/people/eshwar-venugopal/  
 ---
 ## About me
 
