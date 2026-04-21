@@ -16,6 +16,9 @@ main:
   - name: Media
     url: /#media
     weight: 13
+  - name: Co-authors
+    url: coauthors/
+    weight: 14
   - name: ...
     identifier: tags
     weight: 20
