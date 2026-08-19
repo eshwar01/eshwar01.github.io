@@ -42,6 +42,4 @@ profiles:
 ---
 ## About me
 
-Welcome to my website! 
-
-I am Buvaneshwaran Venugopal and go by Eshwar (E-sh-ver). I am a financial economist who conducts empirical research in corporate and entrepreneurial finance areas. Specifically, I study how businesses are affected by incentive mechanisms, networks, technology, and environmental issues by leveraging natural language processing and machine learning techniques.
+I am a financial economist working on corporate risk: how it is measured, what it costs, and how it is priced. My work spans flood risk and insurance, environmental damage, debt covenants, and firm-level risk measures built at scale from corporate filings. I used to sell mutual funds in India and build data warehouses at Tata Consultancy Services. A regulation that cut my own commissions got me interested in research.
