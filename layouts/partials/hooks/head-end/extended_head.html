@@ -3,15 +3,24 @@
 {{ end }}
 
 <style>
+  /* Avatar size.
+     The theme's own biography.css caps the avatar with `max-width: 225px;
+     max-height: 225px`. A `width: ... !important` alone cannot beat that --
+     max-width constrains the used width no matter how the width itself is
+     declared -- so the max-* values must be overridden too. Change all four
+     numbers together to resize. The partial override in
+     layouts/partials/blox/resume-biography-3.html renders the source image at
+     640x640, so keep this at or below 640 to stay sharp. */
   #profile .avatar-circle,
   .avatar-circle,
   .avatar {
-    border-radius: 0 !important;
-    width: 1000px !important;
-    height: 1000px !important;
+    border-radius: 0 !important;   /* square, matching features.avatar.shape */
+    width: 320px !important;
+    height: 320px !important;
+    max-width: 320px !important;
+    max-height: 320px !important;
     object-fit: cover !important;
     margin-top: -40px !important;
-    margin-left: -30px !important;
   }
   #profile .network-icon {
     margin-top: 0.5rem;
