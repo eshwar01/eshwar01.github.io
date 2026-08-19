@@ -3,7 +3,7 @@
 title: Eshwar Venugopal
 
 # Name pronunciation (optional)
-name_pronunciation: Eshwar (E-sh-ver)
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Buvaneshwaran

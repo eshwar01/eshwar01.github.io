@@ -28,7 +28,4 @@ abstract: >-
   construct-style ratings of long disclosures, milder for the same constructs on shorter
   earnings-call texts, and substantially attenuated for direct-prompt measures, though
   the diagnostic reveals measurement-related contamination across all three designs.
-links:
-- name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7177500
 ---

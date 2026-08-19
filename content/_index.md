@@ -42,6 +42,7 @@ sections:
         folders:
           - workings
         featured_only: true
+      count: 0
     design:
       view: Citation
       columns: 1
@@ -89,6 +90,7 @@ sections:
       title: Media
       text: |-
         #### Expert Panels, Lectures, & Media Interviews:
+        - How is artificial intelligence reshaping business research? <a href="https://stories.ua.edu/culverhouse-conversations-keeping-pace-with-ai/index.html">[Culverhouse]</a>
         - Making India an Advanced Economy by 2047: What Will It Take?, Moderator <a href="https://events.ucf.edu/event/3524624/making-india-an-advanced-economy-by-2047-what-will-it-take/">[India Center]</a>
         - Fireside Chat on Digital Assets, 2024 FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Blockchain and DeFi, 2024  FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
