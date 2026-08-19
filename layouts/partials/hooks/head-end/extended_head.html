@@ -20,10 +20,34 @@
     max-width: 320px !important;
     max-height: 320px !important;
     object-fit: cover !important;
-    margin-top: -40px !important;
+  }
+
+  /* The wrapper is hardcoded to 150x150 in the theme's biography.css and is
+     what actually gets centred (margin-left/right: auto). Leaving it at 150
+     while the image is 320 makes the photo overflow to the right and below,
+     landing on top of the name and bio. Keep these two numbers equal to the
+     avatar size above. */
+  .avatar-wrapper {
+    width: 320px !important;
+    height: 320px !important;
   }
   #profile .network-icon {
     margin-top: 0.5rem;
+  }
+
+  /* Custom icons are inlined verbatim from assets/media/icons/custom/ and the
+     theme injects only `style="height: 1.5rem"`. Any `width` attribute in the
+     source SVG therefore survives untouched -- Alabama.svg shipped with
+     width="250", which reserved 250px of space and blew the row apart. Forcing
+     width:auto makes every icon derive its width from its viewBox ratio, so a
+     new custom icon cannot reintroduce the problem. */
+  .network-icon svg {
+    width: auto !important;
+    vertical-align: middle;
+  }
+  .network-icon li {
+    display: inline-flex;
+    align-items: center;
   }
   #profile .portrait-title {
     margin-top: 1rem;
