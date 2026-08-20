@@ -42,6 +42,7 @@ sections:
         folders:
           - workings
         featured_only: true
+      count: 0
     design:
       view: Citation
       columns: 1
@@ -52,8 +53,10 @@ sections:
       title: Teaching
       text: |-
         **Instructor:**
-        - Foundations of FinTech (Undergraduate): University of Central Florida, Spring 2019- 
-        - Foundations of FinTech (Masters'): University of Central Florida, Fall 2022- 
+        - Foundations of FinTech: University of Alabama, 2026- 
+        - Money & Capital Markets: University of Alabama, 2026- 
+        - Foundations of FinTech (Undergraduate): University of Central Florida, 2019-2025 
+        - Foundations of FinTech (Masters'): University of Central Florida, 2022-2025 
         - Ph.D Seminar on FinTech: University of Central Florida, Spring 2021, 2023 
         - Debt & Money Markets: University of Central Florida, Spring 2020, 2022, 2024 
         - Corporate Finance: University of Houston - Summer 2016 
@@ -87,6 +90,7 @@ sections:
       title: Media
       text: |-
         #### Expert Panels, Lectures, & Media Interviews:
+        - How is artificial intelligence reshaping business research? <a href="https://stories.ua.edu/culverhouse-conversations-keeping-pace-with-ai/index.html">[Culverhouse]</a>
         - Making India an Advanced Economy by 2047: What Will It Take?, Moderator <a href="https://events.ucf.edu/event/3524624/making-india-an-advanced-economy-by-2047-what-will-it-take/">[India Center]</a>
         - Fireside Chat on Digital Assets, 2024 FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>
         - Blockchain and DeFi, 2024  FinTech Summit <a href="https://business.ucf.edu/fintech-summit/">[UCF]</a>

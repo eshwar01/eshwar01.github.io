@@ -6,11 +6,15 @@ permissions:
   contents: write
   pull-requests: write
 
-# Run workflow when a `.bib` file is added or updated in the `data/` folder
+# Run workflow when either `.bib` file is added or updated.
+# `publications.bib`  -> content/publication/  (published + forthcoming)
+# `workingpapers.bib` -> content/workings/     (working papers)
+# Keep these disjoint: a working-paper entry left in `publications.bib` gets
+# re-created under content/publication/, duplicating it on the homepage.
 on:
   push:
     branches: ['main']
-    paths: ['publications.bib']
+    paths: ['publications.bib', 'workingpapers.bib']
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,6 +39,9 @@ jobs:
         # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
         if: ${{ hashFiles('publications.bib') != '' }}
         run: academic import publications.bib content/publication/ --compact
+      - name: Run Academic (working papers)
+        if: ${{ hashFiles('workingpapers.bib') != '' }}
+        run: academic import workingpapers.bib content/workings/ --compact
       - name: Create Pull Request
         # Set ID for `Check outputs` stage
         id: cpr
@@ -43,8 +50,13 @@ jobs:
           commit-message: 'content: import publications from Bibtex'
           title: Hugo Blox Builder - Import latest publications
           body: |
-            Import the latest publications from `publications.bib` to `content/publication/`.
-            将最新的出版物从`publications.bib`导入到`content/publication/`。
+            Import the latest entries from `publications.bib` to `content/publication/`
+            and from `workingpapers.bib` to `content/workings/`.
+
+            Note: `academic import` runs without `--overwrite`, so it only ever *creates*
+            folders for slugs that don't exist yet. It cannot update a paper already on the
+            site — edit that paper's `index.md` directly instead.
+
             [View Documentation](https://github.com/GetRD/academic-file-converter)
           base: main
           labels: automated-pr, content

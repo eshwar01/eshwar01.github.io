@@ -39,9 +39,9 @@ profiles:
     url: https://scholar.google.com/citations?user=IY4warsAAAAJ&hl=en
   - icon: custom/SSRN
     url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1936852
+  - icon: custom/Alabama
+    url: https://culverhouse.ua.edu/people/eshwar-venugopal/
 ---
 ## About me
 
-Welcome to my website! 
-
-I am Buvaneshwaran Venugopal and go by Eshwar (E-sh-ver). I am a financial economist who conducts empirical research in corporate and entrepreneurial finance areas. Specifically, I study how businesses are affected by incentive mechanisms, networks, technology, and environmental issues by leveraging natural language processing and machine learning techniques.
+I am a financial economist working on corporate risk: how it is measured, what it costs, and how it is priced. My work spans flood risk and insurance, environmental damage, debt covenants, and firm-level risk measures built at scale from corporate filings. I used to sell mutual funds in India and build data warehouses at Tata Consultancy Services. A regulation that cut my own commissions got me interested in research.

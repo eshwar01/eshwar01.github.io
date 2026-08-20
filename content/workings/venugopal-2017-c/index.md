@@ -1,7 +1,7 @@
 ---
 title: Homophily, Information Asymmetry and Performance in the Angels Market
 authors:
-- Buvaneshwaran Gokul Venugopal
+- Buvaneshwaran Venugopal
 date: '2023-01-01'
 publishDate: '2024-10-01T01:53:48.561014Z'
 featured: true
